@@ -1,0 +1,6 @@
+streamlit
+pickle
+pandas
+numpy
+cosine_similarity
+stylable_container
