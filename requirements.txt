@@ -2,5 +2,5 @@ streamlit
 pickle
 pandas
 numpy
-cosine_similarity
-stylable_container
+scikit-learn
+streamlit_extras
